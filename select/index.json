@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "My song",
+  "base_artist": "角巻わため",
+  "createdAt": "2025-12-18T03:09:37.711929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Singing My Song",
+      "artist": "Tammy Wynette",
+      "has_synced": false,
+      "path": "select/01_Singing_My_Song_Tammy_Wynette.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "我的歌声里 (You Exist In My Song) - Demo",
+      "artist": "Wanting",
+      "has_synced": true,
+      "path": "select/02_我的歌声里_(You_Exist_In_My_Song)_-_Demo_Wanting.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "我的歌声里 (Demo Version)-You Exist In My Song (Demo Version)",
+      "artist": "曲婉婷",
+      "has_synced": true,
+      "path": "select/03_我的歌声里_(Demo_Version)-You_Exist_In_My_Song_(Demo_Version)_曲婉婷.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "我的歌声里 (You Exist In My Song)",
+      "artist": "Wanting",
+      "has_synced": false,
+      "path": "select/04_我的歌声里_(You_Exist_In_My_Song)_Wanting.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Silent My Song",
+      "artist": "Lykke Li",
+      "has_synced": false,
+      "path": "select/05_Silent_My_Song_Lykke_Li.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Song (feat. 24hrs)",
+      "artist": "Ty Dolla $ign feat. 24hrs",
+      "has_synced": true,
+      "path": "select/06_My_Song_(feat._24hrs)_Ty_Dolla_$ign_feat._24hrs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Song (feat. 24hrs)",
+      "artist": "Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/07_My_Song_(feat._24hrs)_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rhythm of My Song",
+      "artist": "Londonbeat",
+      "has_synced": false,
+      "path": "select/08_Rhythm_of_My_Song_Londonbeat.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sing My Song",
+      "artist": "Bob Sinclar",
+      "has_synced": false,
+      "path": "select/09_Sing_My_Song_Bob_Sinclar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What Have They Done to My Song, Ma - Remastered",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/10_What_Have_They_Done_to_My_Song,_Ma_-_Remastered_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I've Got to Sing My Song",
+      "artist": "Oleta Adams",
+      "has_synced": true,
+      "path": "select/11_I've_Got_to_Sing_My_Song_Oleta_Adams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I've Got To Sing My Song (Live)",
+      "artist": "Oleta Adams",
+      "has_synced": false,
+      "path": "select/12_I've_Got_To_Sing_My_Song_(Live)_Oleta_Adams.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Sing My Song",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/13_I_Sing_My_Song_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Is My Song",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/14_This_Is_My_Song_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This Is My Song",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/15_This_Is_My_Song_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Song",
+      "artist": "GFOTY",
+      "has_synced": true,
+      "path": "select/16_My_Song_GFOTY.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "My Song",
+      "artist": "Johnny Ace",
+      "has_synced": false,
+      "path": "select/17_My_Song_Johnny_Ace.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Keep on Singin' My Song",
+      "artist": "Christina Aguilera",
+      "has_synced": false,
+      "path": "select/18_Keep_on_Singin'_My_Song_Christina_Aguilera.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My song",
+      "artist": "角巻わため",
+      "has_synced": false,
+      "path": "select/pl_01_My_song_角巻わため.txt"
+    }
+  ]
+}
